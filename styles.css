@@ -1,3 +1,43 @@
 .error {
   color: red;
 }
+
+.cover {
+  cursor: pointer;
+  width: 128px;
+  height: 193px;
+  position: absolute;
+}
+
+.text {
+  margin-left: 133px;
+  margin-top: 5px;
+}
+
+.oneBook {
+  border-style: dotted;
+  border-width: 2px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  position: relative;
+  height: 193px;
+  background-color: #fff2e6;
+}
+
+a {
+  color: grey;
+}
+
+body {
+  background-color: #ffca99;
+}
+
+input {
+  height: 50px;
+  font-size: 20px;
+}
+
+button {
+  height: 50px;
+  font-size: 20px;
+}
